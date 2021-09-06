@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/why-crossword/static/css/main.d55a71dc.chunk.css",
+    "main.js": "/why-crossword/static/js/main.8cbf7e41.chunk.js",
+    "main.js.map": "/why-crossword/static/js/main.8cbf7e41.chunk.js.map",
+    "runtime-main.js": "/why-crossword/static/js/runtime-main.23ad9827.js",
+    "runtime-main.js.map": "/why-crossword/static/js/runtime-main.23ad9827.js.map",
+    "static/js/2.59b1c521.chunk.js": "/why-crossword/static/js/2.59b1c521.chunk.js",
+    "static/js/2.59b1c521.chunk.js.map": "/why-crossword/static/js/2.59b1c521.chunk.js.map",
+    "index.html": "/why-crossword/index.html",
+    "static/css/main.d55a71dc.chunk.css.map": "/why-crossword/static/css/main.d55a71dc.chunk.css.map",
+    "static/js/2.59b1c521.chunk.js.LICENSE.txt": "/why-crossword/static/js/2.59b1c521.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23ad9827.js",
+    "static/js/2.59b1c521.chunk.js",
+    "static/css/main.d55a71dc.chunk.css",
+    "static/js/main.8cbf7e41.chunk.js"
+  ]
+}
